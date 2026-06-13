@@ -7,14 +7,23 @@ This repository contains my Programming Fundamentals assignments, lab tasks, and
 **Topics Covered**:
 
 Variables and Data Types
+
 Input and Output Operations
+
 Conditional Statements
+
 Loops and Iteration
+
 Functions
+
 Arrays and Strings
+
 Structures
+
 File Handling
+
 Basic Searching and Sorting
+
 Problem Solving Techniques
 
 **Repository Structure**:
@@ -33,22 +42,30 @@ Each assignment folder may contain multiple tasks and their corresponding source
 **Technologies Used**:
 
 C++
-GCC Compiler
-Visual Studio / Code::Blocks / Dev-C++
-Learning Outcomes
 
-**Through these assignments, I developed:**
+GCC Compiler
+
+Visual Studio / Code::Blocks / Dev-C++
+
+**Learning Outcomes**:
+
+Through these assignments, I developed:
 
 
 Problem-solving skills
+
 Algorithmic thinking
+
 Debugging techniques
+
 Code organization practices
+
 Fundamental programming concepts
 
 **Author**:
 
 Abdullah Ilyas
+
 BS Computer Science Student
 
 **Disclaimer**:
