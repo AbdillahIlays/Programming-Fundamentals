@@ -1,9 +1,11 @@
 Programming Fundamentals (PF)
 
-**Overview**
+**Overview**:
+
 This repository contains my Programming Fundamentals assignments, lab tasks, and practice programs completed during my BS Computer Science degree. The projects are implemented in C++ and focus on developing logical thinking, problem-solving abilities, and a strong foundation in programming.
 
-**Topics Covered**
+**Topics Covered**:
+
 Variables and Data Types
 Input and Output Operations
 Conditional Statements
@@ -15,7 +17,8 @@ File Handling
 Basic Searching and Sorting
 Problem Solving Techniques
 
-**Repository Structure**
+**Repository Structure**:
+
 
 Programming-Fundamentals/
 
@@ -27,7 +30,8 @@ Programming-Fundamentals/
 
 Each assignment folder may contain multiple tasks and their corresponding source code files.
 
-**Technologies Used**
+**Technologies Used**:
+
 C++
 GCC Compiler
 Visual Studio / Code::Blocks / Dev-C++
@@ -35,15 +39,18 @@ Learning Outcomes
 
 **Through these assignments, I developed:**
 
+
 Problem-solving skills
 Algorithmic thinking
 Debugging techniques
 Code organization practices
 Fundamental programming concepts
 
-**Author**
+**Author**:
+
 Abdullah Ilyas
 BS Computer Science Student
 
-**Disclaimer**
+**Disclaimer**:
+
 These assignments were completed for educational purposes as part of academic coursework.
