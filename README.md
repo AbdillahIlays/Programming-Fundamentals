@@ -37,6 +37,8 @@ Programming-Fundamentals/
 
 ├── Assignment-03
 
+├── Projects
+
 Each assignment folder may contain multiple tasks and their corresponding source code files.
 
 **Technologies Used**:
